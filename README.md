@@ -1,4 +1,4 @@
 # storybook 
 
-:eggplant: :water:
+:eggplant: :sweat:
 
